@@ -21,7 +21,7 @@ function displayNavChildren(){
             </li>
             <li>
               <a href="#D&D-tablet" class="has-text-white">
-                <span class="icon is-small"><i class="fa fa-link"></i></span> D&D Spellbook Maker
+                <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
               <li>
@@ -51,7 +51,7 @@ function displayNavChildren(){
             </li>
             <li>
               <a href="#dnd-nav-mobile" class="has-text-white">
-                <span class="icon is-small"><i class="fa fa-link"></i></span> D&D Spellbook Maker
+                <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
               <li>
@@ -90,7 +90,7 @@ function displaySideChildren(){
     </li>
     <li>
               <a href="#D&D" class="has-text-white">
-                <span class="icon is-small"><i class="fa fa-link"></i></span> D&D Spellbook Maker
+                <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
     <li>
@@ -137,7 +137,7 @@ function displaySideChildren(){
             </li>
             <li>
               <a href="#D&D-tablet" class="has-text-white">
-                <span class="icon is-small"><i class="fa fa-link"></i></span> D&D Spellbook Maker
+                <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
               <li>
@@ -167,7 +167,7 @@ function displaySideChildren(){
             </li>
             <li>
               <a href="#dnd-nav-mobile" class="has-text-white">
-                <span class="icon is-small"><i class="fa fa-link"></i></span> D&D Spellbook Maker
+                <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
               <li>
