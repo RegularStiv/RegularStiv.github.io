@@ -1,0 +1,123 @@
+a.has-text-white:hover{
+  color: black!important;
+}
+#aside-nav{
+  position: sticky;
+  top:0px;
+  display:block;
+  height:100vh;
+
+}
+.ggp-container{
+  background-color: #93D1DE;
+  color: #363636;
+}
+.spellbook-container{
+  color: #363636;
+  background: #F9A4CB;
+}
+#navbar{
+  position:sticky;
+  top:0;
+}
+.stop-overflow{ 
+  padding:0px;
+  background-color: white;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+.columns.is-multiline.is-centered{
+  padding-top:20px;
+}
+section{
+  margin:020px;
+}
+.column #id-card{
+  padding-top:50px;
+  margin-bottom:100px;
+}
+html{
+  margin:0px;
+  scroll-behavior: smooth;
+}
+.card {
+  background-color: rgb(150, 150, 150);
+  color:#363636;
+}
+.content h2{
+  color:white;
+}
+.inner-cards .card{
+  background-color: white;
+  color:#4a4a4a ;
+}
+.bottom-img{
+  height:100px;
+}
+#id-card-nav{
+  padding-top:50px;
+}
+
+.container-norman{
+  /* height: 500px; */
+  background: #718DBC;
+
+}
+#skills{
+  margin-top: 50px;
+}
+#main{
+  margin:0px;
+}
+#mobile{
+  padding:0px;
+}
+#into-the-rift{
+  background-color: transparent;
+  
+}
+.id-tech-container{
+  color: #363636;
+  background-color: #DAD7CC;
+}
+.card-background{
+  background:transparent;
+}
+.project{
+  height: 500px;
+  margin-right:0px;
+  margin-left: 20px;
+}
+#projects-section{
+  padding:0px;
+}
+.nav-display{
+  padding-right:0px;
+}
+.right-project{
+  padding-right: 35px;
+}
+.container-connect-four{
+  background: #F6E518;
+  color: #363636;
+
+}
+.container-unity{
+  background: #EC7E15;
+  color: #363636;
+}
+.container-change{
+  color: #363636;
+  background-color: #DAD7CC;
+}
+.side-image{
+  height:50px;
+} 
+.content .remove-bullets ul{
+  list-style: none;
+  margin-left:0px;
+}
+.content ul{
+  list-style: none!important;
+  margin-left: 0;
+}
