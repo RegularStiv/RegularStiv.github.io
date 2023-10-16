@@ -25,8 +25,8 @@ function displayNavChildren(){
               </a>
             </li>
               <li>
-                <a href="#snake-nav" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Snake
+                <a href="#connect-four-nav" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> Connect Four
                 </a>
               </li>
               <li>
@@ -55,8 +55,8 @@ function displayNavChildren(){
               </a>
             </li>
               <li>
-                <a href="#snake-nav-mobile" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Snake
+                <a href="#connect-four-nav-mobile" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> Connect Four
                 </a>
               </li>
               <li>
@@ -94,8 +94,8 @@ function displaySideChildren(){
               </a>
             </li>
     <li>
-      <a href="#snake" class="has-text-white">
-        <span class="icon is-small"><i class="fa fa-link"></i></span> Snake
+      <a href="#connect-four" class="has-text-white">
+        <span class="icon is-small"><i class="fa fa-link"></i></span> Connect Four
       </a>
     </li>
     <li>
@@ -141,8 +141,8 @@ function displaySideChildren(){
               </a>
             </li>
               <li>
-                <a href="#snake-nav" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Snake
+                <a href="#connect-four-nav" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> Connect Four
                 </a>
               </li>
               <li>
@@ -171,8 +171,8 @@ function displaySideChildren(){
               </a>
             </li>
               <li>
-                <a href="#snake-nav-mobile" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Snake
+                <a href="#connect-four-nav-mobile" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> Connect Four
                 </a>
               </li>
               <li>
