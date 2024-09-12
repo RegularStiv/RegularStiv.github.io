@@ -20,7 +20,7 @@ function displayNavChildren(){
               </a>
             </li>
             <li>
-              <a href="#D&D-tablet" class="has-text-white">
+              <a href="#salve-tablet" class="has-text-white">
                 <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
@@ -35,8 +35,8 @@ function displayNavChildren(){
                 </a>
               </li>
               <li>
-                <a href="#norman-the-neckbeard-nav" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Into the Rift
+                <a href="#d&d-nav" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> D&D Spellbook Creator
                 </a>
               </li>
     `;
@@ -50,7 +50,7 @@ function displayNavChildren(){
               </a>
             </li>
             <li>
-              <a href="#dnd-nav-mobile" class="has-text-white">
+              <a href="#salve-nav-mobile" class="has-text-white">
                 <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
@@ -65,8 +65,8 @@ function displayNavChildren(){
                 </a>
               </li>
               <li>
-                <a href="#norman-the-neckbeard-nav-mobile" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Into the Rift
+                <a href="#d&d-nav-mobile" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> D&D Spellbook Creator
                 </a>
               </li>
     `;
@@ -89,7 +89,7 @@ function displaySideChildren(){
       </a>
     </li>
     <li>
-              <a href="#D&D" class="has-text-white">
+              <a href="#salve" class="has-text-white">
                 <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
@@ -104,8 +104,8 @@ function displaySideChildren(){
       </a>
     </li>
     <li>
-      <a href="#norman-the-neckbeard" class="has-text-white">
-        <span class="icon is-small"><i class="fa fa-link"></i></span> Into the Rift
+      <a href="#d&d" class="has-text-white">
+        <span class="icon is-small"><i class="fa fa-link"></i></span> D&D Spellbook Creator
       </a>
     </li>
     `;
@@ -136,7 +136,7 @@ function displaySideChildren(){
               </a>
             </li>
             <li>
-              <a href="#D&D-tablet" class="has-text-white">
+              <a href="#salve-tablet" class="has-text-white">
                 <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
@@ -151,8 +151,8 @@ function displaySideChildren(){
                 </a>
               </li>
               <li>
-                <a href="#norman-the-neckbeard-nav" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Into the Rift
+                <a href="#d&d-nav" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> D&D Spellbook Creator
                 </a>
               </li>
     `;
@@ -166,7 +166,7 @@ function displaySideChildren(){
               </a>
             </li>
             <li>
-              <a href="#dnd-nav-mobile" class="has-text-white">
+              <a href="#salve-nav-mobile" class="has-text-white">
                 <span class="icon is-small"><i class="fa fa-link"></i></span> Salve
               </a>
             </li>
@@ -181,8 +181,8 @@ function displaySideChildren(){
                 </a>
               </li>
               <li>
-                <a href="#norman-the-neckbeard-nav-mobile" class="has-text-white">
-                <span class="icon"><i class="fa fa-table"></i></span> Into the Rift
+                <a href="#d&d-nav-mobile" class="has-text-white">
+                <span class="icon"><i class="fa fa-table"></i></span> D&D Spellbook Creator
                 </a>
               </li>
     `;
